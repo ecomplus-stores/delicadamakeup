@@ -1,11 +1,11 @@
 {
   "description": {
     "title": "",
-    "text": ""
+    "text": "Formas de pagamento"
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
+    "title": "Saiba mais ",
     "list": []
   },
   "links_2": {
@@ -22,8 +22,10 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "src": "/img/uploads/9094-compra-segura.png"
+    },
+    {
+      "src": "/img/uploads/9094-logo_delicada-removebg-preview.png"
     }
   ],
   "payment_methods": {

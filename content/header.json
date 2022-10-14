@@ -11,7 +11,16 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/face?Face",
+      "/olhos?Olhos",
+      "/labios?Boca",
+      "/skincare?Skincare",
+      "/esponjas?Pincéis e esponjas",
+      "/infantil?Infantil",
+      "/acessorios?Acessórios",
+      "/delicada-?Delicada +"
+    ],
     "random": 12,
     "full_width": true
   },

@@ -1,47 +1,72 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Mais Delicada: Linha completa de maquiagem a R$10,00",
+  "meta_description": "Linha completa de maquiagem a R$10,00",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/9094-banner-1-delicada23.png"
+    },
+    {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 5000,
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/9094-banner-1-delicada-3-.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/9094-banner-1-delicada-4-.jpg"
         }
       ]
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 48,
+      "offset": 0,
+      "autoplay": 5000
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "614e367e48adaf6e63a82ff1:categories:Serum:/serum",
+      "sort": "views",
+      "title": "Mais Vendidos",
+      "headless": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/9094-fearless-5-.png",
+      "mobile_img": "/img/uploads/9094-fearless-4-.png"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     },
     {
       "type": "info-bar",
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
-      "limit": 12,
-      "page": 1
+      "type": "responsive-banner",
+      "img": "/img/uploads/9094-siga-nosso-instagram.jpg",
+      "link": "https://www.instagram.com/delicadamakeupfga/",
+      "mobile_img": "/img/uploads/9094-siga-nosso-instagram.jpg"
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "custom-content",
+      "markdown": "Acompanhe nosso Instagram e fique por dentro de todas as novidades da loja! **\\    [VER PERFIL ](https://www.instagram.com/delicadamakeupfga/)**"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/9094-fearless-1-.png",
+      "mobile_img": "/img/uploads/9094-fearless-1-.png"
     }
   ]
 }

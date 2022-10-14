@@ -13,20 +13,21 @@
       }
     },
     {
-      "type": "related-products",
-      "title": "Produtos relacionados"
-    },
-    {
-      "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:"
-    },
-    {
       "type": "product-description",
       "enabled": true
     },
     {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/9094-fearless-3-.png",
+      "mobile_img": "/img/uploads/9094-fearless-3-.png"
+    },
+    {
+      "type": "related-products",
+      "title": "Produtos relacionados"
     }
   ]
 }

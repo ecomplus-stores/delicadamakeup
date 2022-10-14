@@ -2,5 +2,12 @@
   "title": "Contato",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "<!--StartFragment-->\n\nNós da Delicada Makeup prezamos o bem estar e confiança do cliente, então fique a vontade para tirar suas dúvidas, e também fazer sugestões ou reclamações .. \n\n<!--StartFragment-->\n\n[CLIQUE AQUI E CONVERSE DIRETAMENTE EM NOSSO WHATSAPP ](https://api.whatsapp.com/send?phone=5537991641144&text=Ol%C3%A1%20vim%20atrav%C3%A9s%20do%20seu%20site!%20)\n\n<!--EndFragment-->\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/9094-siga-nosso-instagram-3-.png",
+      "mobile_img": "/img/uploads/9094-siga-nosso-instagram-3-.png"
+    }
+  ]
 }

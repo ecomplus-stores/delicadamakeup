@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.607b9da4b99b0ca034443abdfbabc326.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.8227276340ee51d7ab545ad8e6aa000d.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.7e88f4445113e14f1d52a830e178200f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a3addd0168d0d7e8a80d6da3e4340f38.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.cfa0f40d36461525d25d46f2d3d61c54.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Mais Delicada",
+  "short_name": "Mais Delicada",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Linha completa de maquiagem a R$10,00",
+  "background_color": "#ffffff",
+  "theme_color": "#f59da9"
+}
